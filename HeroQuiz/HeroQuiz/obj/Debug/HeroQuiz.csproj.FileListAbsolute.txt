@@ -1,0 +1,7 @@
+c:\users\mbrya\source\repos\HeroQuiz\HeroQuiz\bin\Debug\HeroQuiz.exe.config
+c:\users\mbrya\source\repos\HeroQuiz\HeroQuiz\bin\Debug\HeroQuiz.exe
+c:\users\mbrya\source\repos\HeroQuiz\HeroQuiz\bin\Debug\HeroQuiz.pdb
+c:\users\mbrya\source\repos\HeroQuiz\HeroQuiz\obj\Debug\HeroQuiz.csprojResolveAssemblyReference.cache
+c:\users\mbrya\source\repos\HeroQuiz\HeroQuiz\obj\Debug\HeroQuiz.csproj.CoreCompileInputs.cache
+c:\users\mbrya\source\repos\HeroQuiz\HeroQuiz\obj\Debug\HeroQuiz.exe
+c:\users\mbrya\source\repos\HeroQuiz\HeroQuiz\obj\Debug\HeroQuiz.pdb
